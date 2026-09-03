@@ -33,7 +33,7 @@ An end-to-end interactive Tableau analytics suite based on the Olist Brazilian E
 
 <img align="left" width="250" height="150" src="https://github.com/Baibar/Portfolio_/blob/main/images/Nutrient.jpg"> **[Olist E-commerce Performance](https://github.com/Baibar/food-nutrient-density-tableau)**
 
-An end-to-end Python & Tableau analytical pipeline evaluating 7,000+ food items from USDA. Features EDA, Spearman rank correlations, and non-parametric hypothesis testing (Mann-Whitney U with FDR correction) to quantify thermal cooking impacts on nutrient density.
+An end-to-end Python & Tableau analytical pipeline evaluating 7,000+ food items from USDA. Features EDA, Spearman rank correlations, and non-parametric hypothesis testing to quantify thermal cooking impacts on nutrient density.
 
 #
 
