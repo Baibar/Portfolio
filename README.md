@@ -9,20 +9,17 @@ Data Analytics & BI portfolio This repository showcases end-to-end analytical so
 
 ---
 
-### 🏆 Education & Key Achievements
+## Education & Key Achievements
 
-* **Data Analytics Specialist:** Successfully completed comprehensive Data Analytics training program (Python, SQL, Tableau, Power BI).
-* **Published Analytics Projects:** Built publication-ready statistical pipelines evaluating complex datasets (e.g., USDA FoodNutrients, E-commerce operations) featuring FDR-adjusted hypothesis testing and Rank-Biserial effect sizes.
-* **Bi-Lingual Analytics:** Skilled in structuring data solutions and business documentation in both Ukrainian and English.
+- Data Analytics Specialist: Completed a comprehensive Data Analytics training program covering Python, SQL, Tableau, and Power BI.
+- Portfolio Projects: Built end-to-end analytics projects on real-world datasets (USDA food nutrition data, e-commerce operations), including data cleaning, statistical analysis, and hypothesis testing to uncover meaningful insights.
+- Bilingual Analytics: Comfortable building data solutions and writing business documentation in both Ukrainian and English.
 
----
+## Tech Stack & Core Competencies
 
-### 🛠 Tech Stack & Analytical Skillset
-
-* **Languages & Querying:** Python (Pandas, NumPy, SciPy, Statsmodels), SQL (Google BigQuery, PostgreSQL).
-* **Business Intelligence & Dashboards:** Tableau (Calculated Fields, LODs, Tooltips), Power BI (DAX, Star Schema Modeling).
-* **Statistical Methods:** Non-Parametric Testing (Mann-Whitney U, Kruskal-Wallis), FDR Correction (Benjamini-Hochberg), Correlation Analysis (Spearman, Pearson), Outlier Detection (IQR).
-* **Tools & Workflow:** Git/GitHub, Jupyter Notebooks, Google Sheets / MS Excel.
+- Data Analysis & Statistics: Python (Pandas, NumPy, SciPy), SQL, exploratory data analysis, hypothesis testing, correlation and outlier analysis.
+- Business Intelligence: Tableau, Power BI (data modeling, DAX), interactive dashboards.
+- Tools & Databases: Google BigQuery, PostgreSQL, Git/GitHub, Jupyter Notebooks, Excel/Google Sheets.
 
 ---
 
