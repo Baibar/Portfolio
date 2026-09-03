@@ -33,13 +33,13 @@ An end-to-end interactive Tableau analytics suite based on the Olist Brazilian E
 
 <img align="left" width="250" height="150" src="https://github.com/Baibar/Portfolio_/blob/main/images/Nutrient.jpg"> **[Food Nutrient Density Analysis](https://github.com/Baibar/food-nutrient-density-tableau)**
 
-An end-to-end Python & Tableau analytical pipeline evaluating 7,000+ food items from USDA. Features EDA, statistical correlation analysis and hypothesis testing to quantify how cooking affects nutrient levels.
+An end-to-end Python & Tableau analytical pipeline evaluating 7,000+ food items from USDA. Features EDA data preparation and cleaning, statistical correlation analysis and hypothesis testing to quantify how cooking affects nutrient levels.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Baibar/Portfolio_/blob/main/images/Ecom.jpg"> **[E-commerce Operations & Web Analytics](https://github.com/Baibar/Ecom_Operations_and_Web_Analytics)**
 
-An end-to-end 6-page Power BI report analyzing e-commerce performance. Built on a well-structured data model with reusable date and location dimensions, it includes year-over-year growth tracking, profit concentration analysis (identifying which products drive most profit), interactive drill-downs by product, traffic source tracking, and delivery performance monitoring
+A 6-page Power BI report analyzing e-commerce performance, with a well-structured data model, year-over-year growth tracking, sales concentration analysis, product-level drill-downs, traffic source tracking, and delivery performance monitoring.
 
 #
 
